@@ -12,6 +12,8 @@ I wrote this using Turbo Macro Pro in emulator 40 column screen! Using both Vice
 
 The .d64 file contains the object code in rocketlnd.prg and the latest TMP assembly souce in 2ships13.prg.
 
+The src directory contains a text export of the source from TMP.
+
 ## Screen Caps
 ![Screenshot of starting and in-between rounds screen showing current score and on screen instructions](screencaps/start_and_between.png)
 ![Screenshot showing in game action.  Pilot 2 in a purple/blue color is about to lazily land on the 1 point pad, while Pilot 1 is going for the 10 pointer, but looks like that ship is going to fast to slow down in time.](screencaps/rocket_lander_action.png)
